@@ -39,7 +39,7 @@ The user interface is built with [Gradio](https://www.gradio.app/), allowing eas
   - Serper.dev API
     
 ---
-[APP Link:](https://huggingface.co/spaces/ayaAttia/KnowledgeBoosterAPP)
+🤖 [APP Link](https://huggingface.co/spaces/ayaAttia/KnowledgeBoosterAPP)
  
 ---
 
@@ -47,6 +47,6 @@ The user interface is built with [Gradio](https://www.gradio.app/), allowing eas
 
 
 ```bash
-git clone https://github.com/yourusername/knowledge-booster-crewai.git
+git clone https://github.com/AyaAttia20/Knowledge-Booster-using-Crew-AI.git
 cd knowledge-booster-crewai
 pip install -r requirements.txt
